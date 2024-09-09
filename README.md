@@ -5,6 +5,7 @@ How to run-
 
 Install libraries- 
 pip install textblob 
+
 pip install nltk
 
 Then simply execute the tk.py file. 
