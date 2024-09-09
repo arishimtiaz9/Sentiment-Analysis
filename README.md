@@ -4,6 +4,7 @@ A basic python program for doing sentiment analysis. It uses tkinter and textblo
 How to run- 
 
 Install libraries- 
+
 pip install textblob 
 
 pip install nltk
